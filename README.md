@@ -18,8 +18,8 @@ This project is a smart customer support chatbot designed for the PartSelect e-c
 ## 🚀 Getting Started
 1. Clone the Repo
 
-git clone https://github.com/your-username/partselect-chat-agent.git
-cd partselect-chat-agent
+- git clone https://github.com/your-username/partselect-chat-agent.git
+- cd partselect-chat-agent
 
 2. Install Dependencies
 
